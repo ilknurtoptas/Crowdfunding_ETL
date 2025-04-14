@@ -8,7 +8,7 @@ The goal of this project is to *extract* data from Excel files, *transform* the 
 
 **Group members**
 - Asif Shehzad
-- Ilknur 
+- Ilknur Toptas
 - Jose Traboulsi
 - Seyhr Waqas
 
